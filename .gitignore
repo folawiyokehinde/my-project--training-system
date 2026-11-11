@@ -1,0 +1,14 @@
+
+# Environment variables
+Backend/.env
+.env
+
+# Dependencies
+node_modules/
+Backend/node_modules/
+Frontend/node_modules/
+
+# Build files
+Frontend/dist/
+Frontend/build/
+
